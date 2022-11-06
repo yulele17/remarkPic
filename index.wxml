@@ -1,0 +1,7 @@
+<view class="container">
+  <image src="{{picurl}}" show-menu-by-longpress="true"></image>
+
+  <view class="text"><text>{{hokio}}</text></view>
+  <view class="from"><text>---{{from}}{{fromwho!=null?":"+fromwho:""}}</text></view>
+
+</view>

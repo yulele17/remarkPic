@@ -1,0 +1,24 @@
+/* pages/list/index.wxss */
+.text {
+  text-align: center;
+  color: grey;
+  /* border: dashed red; */
+  margin-top: 10rpx;
+  font-size: 24rpx;
+  box-shadow: 1rpx 1rpx 15rpx #1b2b3b;
+}
+
+.container image {
+  border-radius: 5rpx;
+  box-shadow: 1rpx 1rpx 15rpx #123456;
+  margin-bottom: 10rpx;
+}
+
+.from {
+  width: 600rpx;
+  text-align: right;
+  color: grey;
+  margin-top: 10rpx;
+  font-size: 24rpx;
+
+}
